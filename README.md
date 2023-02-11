@@ -9,8 +9,9 @@ To use it all you have to do is paste all your logs in a folder called `logs` in
 # What does it output?
 In the console you should see how many messages each player has sent on the server and in the `players messages` folder you will find `.txt` files with each player's name containing all the messages they have sent.
 
-# Not working?
-With no modifications this will only work with logs from sevres that use default vanilla chat formating.
+# Info
+- With no modifications this will only work with logs from sevres that use default vanilla chat formating.
+- The latest version of this script should work with servers running Minecraft Java 1.19.x
 
 # Output exemeple:
 ```
