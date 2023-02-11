@@ -11,3 +11,18 @@ In the console you should see how many messages each player has sent on the serv
 
 # Not working?
 With no modifications this will only work with logs from sevres that use default vanilla chat formating.
+
+# Output exemeple:
+```
+jjkay03: 5258 messages
+AlligatorAleks: 4306 messages
+Iceshard2003: 2658 messages
+Gonkas77: 2589 messages
+Netti1010: 2196 messages
+Pacopogo: 1112 messages
+Mustooch: 980 messages
+TheDeafCreeper: 801 messages
+AManInASuit: 780 messages
+_yatsu_: 439 messages
+Jackie_Soare: 421 messages
+```
